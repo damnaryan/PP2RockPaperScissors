@@ -3,3 +3,5 @@ I am making this project to learn python. To this date(01/02/2024), I have no pr
 ##### Source of learning: https://www.youtube.com/watch?v=NpmFbWO6HPU&list=WL
 ### About this project:
 A simple rock, paper and scissors game.
+
+### [FINISHED]
