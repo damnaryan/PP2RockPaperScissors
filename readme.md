@@ -8,4 +8,4 @@ A simple rock, paper and scissors game. Also tells the final score upon ending t
 
 ## Learnings:
 - 'continue' inside a while loop - Used to send the compiler back to the start of the while loop.
-- About 'random' library - random.randint(a,b)
+- About 'random' library/module - random.randint(a,b)
